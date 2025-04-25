@@ -1,9 +1,6 @@
 
 ---
-
-### `README.md` - **Login System Project with Jira Integration**
-
-# Login System Project
+# Login System Project with Jira Integration
 
 This project is a simple **login system** where we have created a basic form for logging in. The project was managed using **Jira** for project tracking, task management, and sprint planning. 
 
